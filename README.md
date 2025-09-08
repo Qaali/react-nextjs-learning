@@ -1,3 +1,10 @@
+# React + NextJS Learning Journey
+This repo tracks my progress as I learn React, NextJS, and Jest.
+- ✅ Setup NextJS starter app
+- 🔄 Next: Practice components, hooks
+- 🔄 Future: Add Jest tests
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
